@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Soy Antonio y voy a trabajar en la rama de documentación
+=======
+Soy Thiago y voy a trabajar en la rama de documentación.
+>>>>>>> 7bc116814dd8b828066dce898e90cd6d6de6b7c7
