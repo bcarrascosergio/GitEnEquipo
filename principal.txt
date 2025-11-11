@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hola Thiago cómo estás?
-=======
 Hola Sergio!. ¿Cómo estas?
->>>>>>> 6c00bd31356a0a1163aab5a0ce3e67c1a7996496
+
